@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>_2024_10_09_TCP_Server</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="PlayGroundLib">
+      <HintPath>..\..\2024-10-09_PlayGroundLib\PlayGroundLib\bin\Debug\net8.0\PlayGroundLib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
